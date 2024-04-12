@@ -18,7 +18,6 @@
   <b>Frontend　</b>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-round&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/React.js-928dfa?style=flat-round&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/ThreeJS-BE7928?style=flat-square&logo=Three.js&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-300D4F?style=flat-square&logo=Zustand&logoColor=white">  
   <br />
   <b>Backend　</b>
