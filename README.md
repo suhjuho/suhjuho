@@ -30,5 +30,5 @@
   <img src="https://img.shields.io/badge/Git-FC6D26?style=flat-square&logo=Git&logoColor=white">
 </p>
 
-## Contack
+## Contact
 ✉️ sspaka0422@gamil.com
