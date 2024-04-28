@@ -33,5 +33,7 @@
   <img src="https://img.shields.io/badge/Git-FC6D26?style=flat-square&logo=Git&logoColor=white">
 </p>
 
-## Contact
-✉️ sspaka0422@gamil.com
+## Contact && Channel
+Email: sspaka0422@gamil.com
+
+Notion: [스터디 기록](https://immediate-sort-4c5.notion.site/Seongjun-Hong-ec7b08ee73be4f368be0da797a52e944)
