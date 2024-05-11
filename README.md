@@ -10,8 +10,8 @@
 
 
 ## Projects
-- [NEMO NEMO](https://github.com/suhjuho/nemonemo): 큐브에 적힌 숫자를 확인하여 큐브들을 색칠하고 지워나가 정답을 찾는 3D 퍼즐 게임
-- [Needle in Haystaack](https://github.com/Team-Office360/NeedleInHaystack-client): IT 키워드 검색시 자체 알고리즘 순위에 따라 영상을 검색하고 코드 추출 기능을 제공하는 영상 기반 검색엔진 서비스 
+- [NEMO NEMO](https://github.com/suhjuho/nemonemo): 숫자 힌트를 따라 숨겨진 조각을 찾는 3D 퍼즐 게임 
+- [Needle in Haystack](https://github.com/Team-Office360/NeedleInHaystack-client): IT 키워드 검색시 자체 알고리즘 순위에 따라 영상을 검색하고 코드 추출 기능을 제공하는 영상 기반 검색엔진 서비스
 
 ## Tech Stack
 
@@ -34,6 +34,6 @@
 </p>
 
 ## Contact & Channel
-Email: sspaka0422@gamil.com
+Email: sspaka0422@gmail.com
 
-Notion: [스터디 기록](https://immediate-sort-4c5.notion.site/Seongjun-Hong-ec7b08ee73be4f368be0da797a52e944)
+Notion: [스터디로그](https://immediate-sort-4c5.notion.site/Seongjun-Hong-ec7b08ee73be4f368be0da797a52e944)
